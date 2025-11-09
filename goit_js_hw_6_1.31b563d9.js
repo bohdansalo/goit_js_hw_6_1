@@ -207,11 +207,11 @@
       });
     }
   }
-})({"5j6Kf":[function(require,module,exports,__globalThis) {
+})({"cNPQl":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 1234;
+var HMR_SERVER_PORT = 58084;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -780,6 +780,6 @@ function addTeam(name, players) {
     app.appendChild(listPlayers);
 }
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["5j6Kf","a0t4e"], "a0t4e", "parcelRequire303e", {})
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["cNPQl","a0t4e"], "a0t4e", "parcelRequire303e", {})
 
 //# sourceMappingURL=goit_js_hw_6_1.31b563d9.js.map
